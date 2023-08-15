@@ -1,27 +1,34 @@
-# AngularAuthDemo
+# Angular Authentication (Demo)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+Explore uma demonstração prática de autenticação de aplicação Angular usando JSON Web Tokens (JWT) e route guards. Este repositório fornece um exemplo completo de como implementar um sistema de autenticação seguro, incluindo:
 
-## Development server
+###### JWT Authentication
+Aprenda como gerar e verificar tokens JWT para autenticação de usuário.
+###### Route Guards
+Descubra como proteger rotas e recursos, garantindo acesso apenas a usuários autenticados.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+###### Abordagem prática
+Uma abordagem prática que vai além dos conceitos básicos, incluindo integração real com um servidor de back-end simulado.
 
-## Code scaffolding
+###### Clean Code
+Código limpo e bem organizado que serve como um ótimo ponto de partida para projetos reais.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este repositório é uma oportunidade de aprender e explorar o processo de implementação de autenticação segura com Angular. Aprimore suas habilidades de desenvolvimento, compreenda os fundamentos da autenticação JWT e construa aplicações mais seguras com o uso adequado de route guards. Fique à vontade para contribuir, acompanhar o desenvolvimento e aproveitar o aprendizado colaborativo.
 
-## Build
+ATENÇÃO
+---
+1) Este repositório é uma demonstração educacional e não deve ser usado em ambientes de produção sem uma revisão completa de segurança.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1) Este repositório trata-se de um projeto em andamento e pode estar sujeito a alterações à medida que mais funcionalidades são adicionadas e refinadas.
 
-## Running unit tests
+## Instalação
+Em breve.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Documentação
+Em breve.
 
-## Running end-to-end tests
+## Licença
+Este projeto está licenciado sob a MIT License.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contato
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar através do e-mail: [regismrs.br@gmail.com](mailto://regismrs.br@gmail.com)
